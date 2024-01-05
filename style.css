@@ -1,0 +1,60 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.volume
+{
+    float: left;
+    color: aqua;
+
+}
+
+.imageVolume
+{
+    border-radius: 100px;
+    width: 200px;
+}
+
+.speed
+{
+    float: right;
+    color: aqua;
+}
+
+.imageSpeed
+{
+    border-radius: 100px;
+    width: 200px;
+}
+
+#heythere
+{
+font-size: 20px;
+width: 130px;
+height: 50px;
+float: left;
+}
+
+#hithere
+{
+font-size: 20px;
+width: 130px;
+height: 50px;
+float: right;
+}
+
+
+canvas
+{
+border: 5px solid aqua;
+border-radius: 20px;
+}
